@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "348835575584",
+    "project_id": "new-nikkahlab",
+    "storage_bucket": "new-nikkahlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348835575584:android:d7447a276ada49cdcdc945",
+        "android_client_info": {
+          "package_name": "com.abdiazizwarsame.new_nikkah_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348835575584-909pmjlkhp05egggopoip1bd6ihpjav6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdiazizwarsame.new_nikkah_lab",
+            "certificate_hash": "2ca12b1604b8ca838c596cc43ee9b09440c28090"
+          }
+        },
+        {
+          "client_id": "348835575584-2erqsctmcdd7o8gcbpd2589ef59nonc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLXsK-eNM8iQE_EZ_SRTs-07Ylz8EgVXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348835575584-2erqsctmcdd7o8gcbpd2589ef59nonc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
